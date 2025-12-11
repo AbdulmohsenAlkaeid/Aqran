@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473756452274",
+    "project_id": "aqran-app-233b6",
+    "storage_bucket": "aqran-app-233b6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473756452274:android:c00e630bb1834167de50ab",
+        "android_client_info": {
+          "package_name": "com.example.aqran"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzB5vDXomre9BkZBVUUtJYwE9VRPQgHv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
